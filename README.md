@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/RichieGS/Result-summary)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://main--preeminent-torrone-126d76.netlify.app)
 
 ## My process
 
@@ -55,7 +55,6 @@ I learned about the "Media Query" while working on this project and i now have t
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/RichieGS)
 - Twitter - (https://twitter.com/RichieGS2004)
 
