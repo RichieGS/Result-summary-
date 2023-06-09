@@ -273,13 +273,14 @@ p {
 
 /* Mobile view */
 
-@media screen and (min-width: 375px) and (max-width: 967px) {
+@media screen and (min-width: 375px) and (max-width: 767px) {
   body {
     margin: 0;
     padding: 0 0 10px 0;
   }
   
   .container {
+    padding: 0;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -314,7 +315,7 @@ p {
   }
 
     .continue-btn {
-      width: 330px;
+      width: 100%;
     }
 }
   
