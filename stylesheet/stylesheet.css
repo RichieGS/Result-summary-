@@ -273,7 +273,7 @@ p {
 
 /* Mobile view */
 
-@media screen and (min-width: 375px) and (max-width: 767px) {
+@media screen and (max-width: 375px) {
   body {
     margin: 0;
     padding: 0 0 10px 0;
